@@ -1,1 +1,37 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_4BF0A61A-9B74-4C0E-9504-A11BAD8F5C4C" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" id="_E8962E2A-2C5C-4CA9-A998-63ECE0F082C6" name="Hello World 2" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_4BF0A61A-9B74-4C0E-9504-A11BAD8F5C4C">
+  <dmn:extensionElements/>
+  <dmn:inputData id="_DC2812EE-8C11-4662-8B82-16BF2E492B0A" name="InputData-1">
+    <dmn:extensionElements/>
+    <dmn:variable id="_FA0B499C-4022-4DBA-8CC3-DAC0166A33EA" name="InputData-1"/>
+  </dmn:inputData>
+  <dmn:decision id="_36B50961-9B04-446D-B3F9-A538DFAA1B41" name="Decision-1">
+    <dmn:extensionElements/>
+    <dmn:variable id="_6DBBD1A9-0084-4FD3-A981-2F0F442456A9" name="Decision-1"/>
+  </dmn:decision>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram id="_CFB46835-8521-47C9-A38C-69FF97864B5C" name="DRG">
+      <di:extension>
+        <kie:ComponentsWidthsExtension/>
+      </di:extension>
+      <dmndi:DMNShape id="dmnshape-drg-_DC2812EE-8C11-4662-8B82-16BF2E492B0A" dmnElementRef="_DC2812EE-8C11-4662-8B82-16BF2E492B0A" isCollapsed="false">
+        <dmndi:DMNStyle>
+          <dmndi:FillColor red="255" green="255" blue="255"/>
+          <dmndi:StrokeColor red="0" green="0" blue="0"/>
+          <dmndi:FontColor red="0" green="0" blue="0"/>
+        </dmndi:DMNStyle>
+        <dc:Bounds x="177" y="192" width="100" height="50"/>
+        <dmndi:DMNLabel/>
+      </dmndi:DMNShape>
+      <dmndi:DMNShape id="dmnshape-drg-_36B50961-9B04-446D-B3F9-A538DFAA1B41" dmnElementRef="_36B50961-9B04-446D-B3F9-A538DFAA1B41" isCollapsed="false">
+        <dmndi:DMNStyle>
+          <dmndi:FillColor red="255" green="255" blue="255"/>
+          <dmndi:StrokeColor red="0" green="0" blue="0"/>
+          <dmndi:FontColor red="0" green="0" blue="0"/>
+        </dmndi:DMNStyle>
+        <dc:Bounds x="224" y="118" width="100" height="50"/>
+        <dmndi:DMNLabel/>
+      </dmndi:DMNShape>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</dmn:definitions>
