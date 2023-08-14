@@ -32,11 +32,11 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="354" y="226" width="200" height="200"/>
+        <dc:Bounds x="1044" y="14" width="200" height="200"/>
         <dmndi:DMNLabel/>
         <dmndi:DMNDecisionServiceDividerLine>
-          <di:waypoint x="354" y="326"/>
-          <di:waypoint x="554" y="326"/>
+          <di:waypoint x="1044" y="114"/>
+          <di:waypoint x="1244" y="114"/>
         </dmndi:DMNDecisionServiceDividerLine>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_B420883E-0065-450B-8885-97E8023ACC0E" dmnElementRef="_B420883E-0065-450B-8885-97E8023ACC0E" isCollapsed="false">
