@@ -9,6 +9,10 @@
     <dmn:extensionElements/>
     <dmn:variable id="_6DBBD1A9-0084-4FD3-A981-2F0F442456A9" name="Decision-1"/>
   </dmn:decision>
+  <dmn:inputData id="_E1B2EA08-EE80-43C0-84D6-4F5FAD07DD0F" name="new commit">
+    <dmn:extensionElements/>
+    <dmn:variable id="_AD5B246E-986E-4737-8D53-96B019CD7D66" name="new commit"/>
+  </dmn:inputData>
   <dmndi:DMNDI>
     <dmndi:DMNDiagram id="_CFB46835-8521-47C9-A38C-69FF97864B5C" name="DRG">
       <di:extension>
@@ -29,7 +33,16 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="224" y="118" width="100" height="50"/>
+        <dc:Bounds x="474" y="92" width="100" height="50"/>
+        <dmndi:DMNLabel/>
+      </dmndi:DMNShape>
+      <dmndi:DMNShape id="dmnshape-drg-_E1B2EA08-EE80-43C0-84D6-4F5FAD07DD0F" dmnElementRef="_E1B2EA08-EE80-43C0-84D6-4F5FAD07DD0F" isCollapsed="false">
+        <dmndi:DMNStyle>
+          <dmndi:FillColor red="255" green="255" blue="255"/>
+          <dmndi:StrokeColor red="0" green="0" blue="0"/>
+          <dmndi:FontColor red="0" green="0" blue="0"/>
+        </dmndi:DMNStyle>
+        <dc:Bounds x="253" y="97" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
     </dmndi:DMNDiagram>
